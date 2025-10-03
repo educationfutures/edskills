@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://edskills.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://edskills.org/</loc>
+</url>
+<url>
+<loc>https://edskills.org/about/</loc>
+<lastmod>2025-09-08T11:17:19-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/contact/</loc>
+<lastmod>2025-09-08T12:08:23-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/digital-stars/</loc>
+<lastmod>2025-10-03T10:35:59-05:00</lastmod>
+<image:image>
+<image:loc>https://edskills.org/media/posts/10/imagen_v2.png</image:loc>
+<image:title><![CDATA[Digital STARs]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://edskills.org/evidence-digital-stars/</loc>
+<lastmod>2025-10-03T10:31:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/evidence-remedial-math-program/</loc>
+<lastmod>2025-09-29T15:07:10-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/how-to-guide-digital-stars/</loc>
+<lastmod>2025-10-03T10:31:23-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/how-to-guide-remedial-math-program/</loc>
+<lastmod>2025-09-29T14:59:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/how-to-guide-teach-romania/</loc>
+<lastmod>2025-09-11T15:27:02-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/partnerships/</loc>
+<lastmod>2025-09-08T12:08:38-05:00</lastmod>
+</url>
+<url>
+<loc>https://edskills.org/remedial-math-program/</loc>
+<lastmod>2025-09-29T17:20:54-05:00</lastmod>
+<image:image>
+<image:loc>https://edskills.org/media/posts/4/RO1.png</image:loc>
+<image:title><![CDATA[Image depicting graph paper, geometric shapes, and a compass]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://edskills.org/teach-romania/</loc>
+<lastmod>2025-10-03T10:36:45-05:00</lastmod>
+<image:image>
+<image:loc>https://edskills.org/media/posts/5/4248408835_825de79456_o.jpg</image:loc>
+<image:title><![CDATA[Young children in school, Romania]]></image:title>
+</image:image>
+</url>
+</urlset>
