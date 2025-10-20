@@ -3,7 +3,7 @@
     <title>Education Skills Hub</title>
     <link href="https://edskills.org/feed.xml" rel="self" />
     <link href="https://edskills.org" />
-    <updated>2025-10-20T13:32:18-05:00</updated>
+    <updated>2025-10-20T13:49:58-05:00</updated>
     <author>
         <name>EdSkills Hub</name>
     </author>
@@ -101,23 +101,23 @@
         </author>
         <link href="https://edskills.org/teach-romania/"/>
         <id>https://edskills.org/teach-romania/</id>
-        <media:content url="https://edskills.org/media/posts/5/4248408835_825de79456_o.jpg" medium="image" />
+        <media:content url="https://edskills.org/media/posts/5/ro2.png" medium="image" />
             <category term="Tools"/>
 
         <updated>2025-09-08T11:38:52-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://edskills.org/media/posts/5/4248408835_825de79456_o.jpg" alt="Young children in school, Romania" />
+                        <img src="https://edskills.org/media/posts/5/ro2.png" alt="Learning socio-emotional skills" />
                     Note: These resources are currently available in the Romanian language. TEACH is the World Bank’s classroom observation tool used worldwide to measure teaching practices and support professional development. It focuses on how teachers manage the classroom, deliver instruction, and engage students. By providing a structured framework for observation, TEACH helps&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://edskills.org/media/posts/5/4248408835_825de79456_o.jpg" class="type:primaryImage" alt="Young children in school, Romania" /></p>
+                    <p><img src="https://edskills.org/media/posts/5/ro2.png" class="type:primaryImage" alt="Learning socio-emotional skills" /></p>
                 <p class="msg msg--warning"><em>Note</em>: These resources are currently available in the Romanian language.</p>
-<p class="p1"><a href="https://www.worldbank.org/en/topic/education/brief/teach-helping-countries-track-and-improve-teaching-quality">TEACH</a> is the World Bank’s classroom observation tool used worldwide to measure teaching practices and support professional development. It focuses on how teachers manage the classroom, deliver instruction, and engage students. By providing a structured framework for observation, TEACH helps generate feedback that improves the quality of teaching.</p>
-<p class="p1">Teach RO  offers a practical tool and course for observing teaching in <span class="s1"><strong>primary and preschool</strong></span> classrooms in Romania. The course focuses on core domains such as <span class="s1"><strong>classroom climate</strong></span> and <span class="s1"><strong>instruction</strong></span>, and is delivered on the Teach RO platform (<a href="https://teach.edu.ro">teach.edu.ro</a>).</p>
-<p class="p1">In Romania, TEACH has been adapted into a four-module e-learning program that goes beyond observation to actively train teachers. The modules combine international best practices with local classroom examples, equipping educators with strategies for effective instruction, positive classroom management, and stronger student engagement. This version offers Romanian teachers both the global rigor of TEACH and practical, context-specific support for improving their daily practice.</p>
+<p class="p1"><a href="https://www.worldbank.org/en/topic/education/brief/teach-helping-countries-track-and-improve-teaching-quality"><strong>TEACH</strong></a> is the World Bank’s classroom observation tool used worldwide to measure teaching practices and support professional development. It focuses on how teachers manage the classroom, deliver instruction, and engage students. By providing a structured framework for observation, TEACH helps generate feedback that improves the quality of teaching.</p>
+<p class="p1"><strong><a href="https://teach.edu.ro">Teach RO</a></strong> offers a practical tool and course for observing teaching in <span class="s1"><strong>primary and preschool</strong></span> classrooms in Romania. The course focuses on core domains such as <span class="s1"><strong>classroom climate</strong></span> and <span class="s1"><strong>instruction</strong></span>, and is delivered on the Teach RO platform (<a href="https://teach.edu.ro">teach.edu.ro</a>).</p>
+<p class="p1">In Romania, TEACH has been adapted into a four-module e-learning program (plus introduction and evaluation) that goes beyond observation to actively train teachers. The modules combine international best practices with local classroom examples, equipping educators with strategies for effective instruction, positive classroom management, and stronger student engagement. This version offers Romanian teachers both the global rigor of TEACH and practical, context-specific support for improving their daily practice.</p>
 <h3><strong>Who it’s for</strong></h3>
 <ul>
 <li class="p1">Teachers and school leaders in primary or preschool education</li>
@@ -129,17 +129,18 @@
 <li class="p1">How to use a structured observation framework in real classrooms</li>
 <li>How to document evidence on classroom climate and instructional practices</li>
 <li>How to give clear, actionable feedback to teachers based on observed behaviors</li>
+<li>How to support socio-emotional skills alongside classroom climate and instruction</li>
 </ul>
 <h3 class="p1"><strong>Format</strong></h3>
 <ul>
 <li class="p1">Online access via the <a href="https://teach.edu.ro">Teach RO platform</a></li>
-<li>Course content organized around observation domains (e.g., classroom climate, instruction)</li>
+<li class="p1">Course content is organized around observation domains (climate, instruction, socio-emotional skills) and includes guided note-taking, coding practice, quizzes, and exemplars, plus a synchronous element</li>
 <li>Includes guidance, examples, and tools for use during live lessons</li>
 </ul>
 <h3 class="p1"><strong>How to enroll</strong></h3>
 <p class="p2">The live course is available at: <span class="s1"><strong><a href="https://teach.edu.ro/courses/teach-ro/">teach.edu.ro/courses/teach-ro</a></strong></span>. Access is provided on the Teach RO platform.</p>
 <h3><strong>Time and effort</strong></h3>
-<p class="p1">The Teach RO course is designed to fit educators’ real schedules. Most participants complete it in <span class="s1"><strong>8–10 hours</strong></span> over <span class="s1"><strong>two to three weeks</strong></span>, depending on how much classroom practice they choose to include.</p>
+<p class="p1">The Teach RO course is designed to fit educators’ real schedules. Most participants complete it over <strong><span class="s1">two to three weeks in a 40-hour training program</span></strong>, depending on how much classroom practice they choose to include.</p>
 <ul>
 <li class="p1">Each module can be completed independently.</li>
 <li>Observation activities can be integrated into regular class hours.</li>
@@ -149,7 +150,6 @@
 <h3><strong>Languages</strong></h3>
 <ul>
 <li class="p1">Available in <span class="s1"><strong>Romanian</strong></span>.</li>
-<li>English translation underway.</li>
 <li>Can be adapted for other countries (piloted in Armenia, Ukraine, Kosovo).</li>
 </ul>
 <h3><strong>Evidence and impact</strong></h3>
