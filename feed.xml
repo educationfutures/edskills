@@ -3,7 +3,7 @@
     <title>Education Skills Hub</title>
     <link href="https://edskills.org/feed.xml" rel="self" />
     <link href="https://edskills.org" />
-    <updated>2025-10-20T13:54:50-05:00</updated>
+    <updated>2025-11-11T15:51:46-06:00</updated>
     <author>
         <name>EdSkills Hub</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Tools"/>
 
         <updated>2025-10-03T10:28:11-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://edskills.org/media/posts/10/imagen_v2.png" alt="Digital STARs" />
                     The Digital STARs Program is the World Bank’s flagship initiative to close the digital divide in Romania. By 2026, it will train 100,000 citizens in basic digital skills, turning public libraries into community learning hubs. The program combines a life-centered curriculum, a blended learning model, and a nationwide training-of-trainers cascade&hellip;
@@ -62,14 +62,14 @@
 </ul>
 <h3><strong>Languages</strong></h3>
 <ul>
-<li class="p1">Available in <strong>Romanian</strong>.</li>
+<li class="p1">Available in <strong>Romanian</strong> and <strong>English</strong>.</li>
 <li>Adaptable to other languages with translation and localization.</li>
 </ul>
 <h3><strong>Evidence and impact</strong></h3>
 <p class="p3">Romania ranks last in the EU in basic digital skills (28% vs. 54% EU average). Adult participation in lifelong learning is also the lowest in the EU (4.9%). Digital STARs directly addresses this gap by equipping citizens with essential skills for personal, civic, and professional life. The program is part of Romania’s National Recovery and Resilience Plan (PNRR), modernizing libraries in all 42 counties and strengthening employability, e-government use, and social inclusion. <br><br>Its scalable design makes it a model for other countries facing similar challenges.</p>
 <p><a href="https://edskills.org/evidence-digital-stars/">For more detail, view the <em>evidence and case studies</em> page for this program.</a></p>
 <h3><strong>Program screenshots</strong></h3>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://edskills.org/media/posts/10/gallery/Screenshot-2025-10-09-at-12.45.49.png" data-size="1276x985"><img loading="lazy" src="https://edskills.org/media/posts/10/gallery/Screenshot-2025-10-09-at-12.45.49-thumbnail.png" alt="Digital STARs Moodle screenshot" width="768" height="593"></a>
 <figcaption>Digital STARs Moodle screenshot</figcaption>
 </figure>
@@ -105,7 +105,7 @@
             <category term="Tools"/>
 
         <updated>2025-09-08T11:38:52-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://edskills.org/media/posts/5/ro2.png" alt="Learning socio-emotional skills" />
                     Note: These resources are currently available in the Romanian language. TEACH is the World Bank’s classroom observation tool used worldwide to measure teaching practices and support professional development. It focuses on how teachers manage the classroom, deliver instruction, and engage students. By providing a structured framework for observation, TEACH helps&hellip;
@@ -190,7 +190,7 @@
             <category term="Tools"/>
 
         <updated>2025-09-08T11:23:47-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://edskills.org/media/posts/4/RO1.png" alt="Image depicting graph paper, geometric shapes, and a compass" />
                     Note: These resources are currently available in the Romanian language. The Remedial Math Program gives students who are falling behind a second chance to succeed. Built in Romania and piloted in vulnerable schools, it combines teacher support, engaging digital lessons, and diagnostic assessments. The program targets middle- and lower-secondary students&hellip;
