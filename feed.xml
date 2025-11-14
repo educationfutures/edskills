@@ -3,7 +3,7 @@
     <title>Education Skills Hub</title>
     <link href="https://edskills.org/feed.xml" rel="self" />
     <link href="https://edskills.org" />
-    <updated>2025-11-11T15:51:46-06:00</updated>
+    <updated>2025-11-14T15:33:11-06:00</updated>
     <author>
         <name>EdSkills Hub</name>
     </author>
@@ -243,7 +243,8 @@
 <h3><strong>Downloads and links</strong></h3>
 <ul>
 <li><a href="https://edskills.org/Early Grade Mathematics Toolkit-Initiating Dialogue on Early Mathematics_.pdf">Presentation: Early Grade Mathematics Toolkit-Initiating Dialogue on Early Mathematics (PDF)</a></li>
-<li class="p1">Program container (zip package) – <i>coming soon</i></li>
+<li class="p1"><a href="https://mate-remedial.s3.eu-west-1.amazonaws.com/start_server.bat">Offline version: Program container</a> (installation package) – <em><a href="https://edskills.org/media/files/Remedial Math_installation guide_en.pdf">instructions and user guide</a></em></li>
+<li><a href="http://54.154.242.254/">Online version</a> (no installation needed)</li>
 <li>Teacher handbooks and resource kits – <i>coming soon</i></li>
 </ul>
 <h3><strong>Contact</strong></h3>
