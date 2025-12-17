@@ -3,7 +3,7 @@
     <title>Education Skills Hub</title>
     <link href="https://edskills.org/feed.xml" rel="self" />
     <link href="https://edskills.org" />
-    <updated>2025-11-14T15:33:11-06:00</updated>
+    <updated>2025-12-17T07:52:09-06:00</updated>
     <author>
         <name>EdSkills Hub</name>
     </author>
@@ -62,7 +62,7 @@
 </ul>
 <h3><strong>Languages</strong></h3>
 <ul>
-<li class="p1">Available in <strong>Romanian</strong> and <strong>English</strong>.</li>
+<li class="p1">Available in <strong><a href="https://competentedigitale.digital4all.gov.ro/">Romanian</a></strong> and <strong><a href="https://competentedigitale.digital4all.gov.ro/?lang=en">English</a></strong>.</li>
 <li>Adaptable to other languages with translation and localization.</li>
 </ul>
 <h3><strong>Evidence and impact</strong></h3>
@@ -80,9 +80,14 @@
 <figcaption>Digital STARs Moodle screenshot - pretest</figcaption>
 </figure>
 </div></div>
-<h3><strong>Downloads and links</strong></h3>
+<h3><strong>Access and links</strong></h3>
 <ul>
-<li><strong>Course demo</strong>: <a href="https://digitalstars.neting.hu/" target="_blank" rel="noopener">Access here</a><br>(Username: <code>wb_student</code>, Password: <code>DigitalStars2025!</code>)</li>
+<li><strong>Course access</strong>:
+<ul>
+<li>Romanian: <a href="https://competentedigitale.digital4all.gov.ro/">https://competentedigitale.digital4all.gov.ro/</a></li>
+<li>English: <a href="https://competentedigitale.digital4all.gov.ro/?lang=en">https://competentedigitale.digital4all.gov.ro/?lang=en</a></li>
+</ul>
+</li>
 <li><a href="https://edskills.org/media/files/Digital STARs_one pager_v2.pdf">Program overview (PDF)</a></li>
 <li><a href="https://edskills.org/RAS Digital Skills_final presentation.pdf">Romania Digital Skills RAS presentation (PDF)</a>: Maximizing the uptake, outcomes and benefits stemming from the digital economy</li>
 <li>Librarian training handbooks – <i>coming soon</i></li>
@@ -137,8 +142,6 @@
 <li class="p1">Course content is organized around observation domains (climate, instruction, socio-emotional skills) and includes guided note-taking, coding practice, quizzes, and exemplars, plus a synchronous element</li>
 <li>Includes guidance, examples, and tools for use during live lessons</li>
 </ul>
-<h3 class="p1"><strong>How to enroll</strong></h3>
-<p class="p2">The live course is available at: <span class="s1"><strong><a href="https://teach.edu.ro/courses/teach-ro/">teach.edu.ro/courses/teach-ro</a></strong></span>. Access is provided on the Teach RO platform.</p>
 <h3><strong>Time and effort</strong></h3>
 <p class="p1">The Teach RO course is designed to fit educators’ real schedules. Most participants complete it over <strong><span class="s1">two to three weeks in a 40-hour training program</span></strong>, depending on how much classroom practice they choose to include.</p>
 <ul>
@@ -162,7 +165,7 @@
 </ul>
 <p class="p4">Teachers and mentors who have applied the framework report clearer discussions about instruction, stronger professional trust, and visible improvement in student engagement.</p>
 <h3><strong>Screenshots</strong></h3>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.29.36.png" data-size="1390x1105"><img loading="lazy" src="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.29.36-thumbnail.png" alt="Screenshot from Teach RO online course" width="768" height="611"></a></figure>
 <figure class="gallery__item"><a href="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.29.54.png" data-size="1390x1105"><img loading="lazy" src="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.29.54-thumbnail.png" alt="Screenshot from Teach RO online course" width="768" height="611"></a></figure>
 <figure class="gallery__item"><a href="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.30.23.png" data-size="1390x1105"><img loading="lazy" src="https://edskills.org/media/posts/5/gallery/Screenshot-2025-10-20-at-13.30.23-thumbnail.png" alt="Screenshot from Teach RO online course" width="768" height="611"></a></figure>
