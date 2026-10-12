@@ -3,12 +3,88 @@
     <title>Education Skills Hub</title>
     <link href="https://edskills.org/feed.xml" rel="self" />
     <link href="https://edskills.org" />
-    <updated>2026-02-02T09:15:33-06:00</updated>
+    <updated>2026-10-12T14:02:29-05:00</updated>
     <author>
         <name>EdSkills Hub</name>
     </author>
     <id>https://edskills.org</id>
 
+    <entry>
+        <title>Coach Digital</title>
+        <author>
+            <name>EdSkills Hub</name>
+        </author>
+        <link href="https://edskills.org/coach-digital/"/>
+        <id>https://edskills.org/coach-digital/</id>
+        <media:content url="https://edskills.org/media/posts/14/coach-digital-dashboard.png" medium="image" />
+            <category term="Tools"/>
+
+        <updated>2026-10-12T14:02:29-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://edskills.org/media/posts/14/coach-digital-dashboard.png" alt="Coach Digital administration dashboard showing coaching engagement and targeted teaching practices" />
+                    A classroom observation is only the beginning. Coach Digital helps turn what a coach sees into a focused conversation, a practical next step, and a record of progress. Developed under the World Bank’s Coach initiative and used in Sierra Leone and Nepal, this open-source platform brings classroom observation, teacher feedback,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://edskills.org/media/posts/14/coach-digital-dashboard.png" class="type:primaryImage" alt="Coach Digital administration dashboard showing coaching engagement and targeted teaching practices" /></p>
+                <p>A classroom observation is only the beginning. Coach Digital helps turn what a coach sees into a focused conversation, a practical next step, and a record of progress. Developed under the World Bank’s Coach initiative and used in Sierra Leone and Nepal, this open-source platform brings classroom observation, teacher feedback, and program monitoring into one connected workflow. Its mobile app supports work without a continuous internet connection, with data synchronized when connectivity returns.</p>
+<h3><strong>Who this tool is for</strong></h3>
+<ul>
+<li>Pedagogical leaders, school heads, and coaches who support teachers through regular observation and feedback.</li>
+<li>Teachers developing foundational teaching skills through practical, ongoing professional support.</li>
+<li>Ministries, districts, and implementation partners seeking a locally adaptable system for managing and monitoring teacher coaching.</li>
+</ul>
+<h3><strong>What you get</strong></h3>
+<ul>
+<li><strong>A guided coaching cycle:</strong> Prepare with the teacher, observe the lesson, review teaching practices, give feedback, and agree on one micro-teaching practice to work on.</li>
+<li><strong>An app for the field:</strong> School and teacher profiles, observation ratings, feedback records, and previous sessions. Offline data storage and synchronization support visits where internet access is intermittent.</li>
+<li><strong>A view of teacher progress:</strong> Session histories preserve earlier feedback and agreed actions. The documented app makes teacher statistics available after at least three completed coaching sessions.</li>
+<li><strong>A dashboard for program teams:</strong> Filter by geography and time period to review participation, coaching activity, and targeted teaching practices. School management, data exports, and synchronization logs support day-to-day administration.</li>
+<li><strong>Local control:</strong> Adapt teaching practices, observation questions, language, branding, and deployment arrangements to your coaching model. The mobile app is published under the MIT license; check each component’s terms when reusing code.</li>
+</ul>
+<h3><strong>How to use it</strong></h3>
+<ol class="ordered-list"><li>Agree on the coaching model and teaching practices your program will support.</li><li>Have a technical team configure the app, backend, and dashboard for your context.</li><li>Register schools, prepare school QR codes, and train coaches to set up their devices.</li><li>Use the app to observe a lesson, discuss the evidence, and record one agreed improvement focus.</li><li>Return for follow-up coaching and use synchronized data to identify where teachers and coaches need support.</li></ol>
+<p><a href="https://edskills.org/how-to-guide-coach-digital/">For more detail, view the how-to guide for Coach Digital.</a></p>
+<h3><strong>Time and effort</strong></h3>
+<ul>
+<li><strong>Setup:</strong> A supported implementation needs a program owner, technical team, hosting, local adaptation, and field testing. Scope and existing infrastructure determine the schedule.</li>
+<li><strong>Use:</strong> Plan time for lesson preparation, classroom observation, a one-to-one feedback conversation, and follow-up. Set the frequency through your coaching program rather than treating the app as a fixed course.</li>
+<li><strong>Support:</strong> Budget for coach training, device and connectivity support, hosting, backups, and software maintenance. Open-source access removes a barrier to reuse; it does not remove operating costs.</li>
+</ul>
+<h3><strong>Languages</strong></h3>
+<ul>
+<li>The mobile source includes <strong>English and Nepali</strong> language files. The documentation is in English.</li>
+<li>Additional languages and locally appropriate coaching materials can be added through translation and software adaptation. Confirm availability in the build your program uses.</li>
+</ul>
+<h3><strong>Evidence and impact</strong></h3>
+<p>Sierra Leone and Nepal show how the shared platform can be used across different education systems. The World Bank’s technical guidance note adds design lessons from an earlier Mozambique pilot, particularly the importance of offline access and simple screens. These sources support a case for adaptable coaching infrastructure; they do not establish a measured effect of this app on student learning.</p>
+<p><a href="https://edskills.org/evidence-coach-digital/">Explore the evidence and case studies for Coach Digital.</a></p>
+<h3><strong>Program screenshots</strong></h3>
+<p>These examples come from the Coach Digital documentation. The figures shown are interface examples, not verified program results; screens and terminology may vary by deployment.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://edskills.org/media/posts/14/gallery/coach-cycle.png" data-size="360x807"><img loading="lazy" src="https://edskills.org/media/posts/14/gallery/coach-cycle-thumbnail.png" alt="A guided sequence from observation to feedback" width="343" height="768"></a><figcaption>A guided sequence from observation to feedback</figcaption></figure>
+<figure class="gallery__item"><a href="https://edskills.org/media/posts/14/gallery/coach-focus.png" data-size="375x812"><img loading="lazy" src="https://edskills.org/media/posts/14/gallery/coach-focus-thumbnail.png" alt="Select one micro-teaching practice for improvement" width="355" height="768"></a><figcaption>Select one micro-teaching practice for improvement</figcaption></figure>
+<figure class="gallery__item"><a href="https://edskills.org/media/posts/14/gallery/coach-dashboard.png" data-size="3090x1850"><img loading="lazy" src="https://edskills.org/media/posts/14/gallery/coach-dashboard-thumbnail.png" alt="Review coaching engagement and targeted improvement areas" width="768" height="460"></a><figcaption>Review coaching engagement and targeted improvement areas</figcaption></figure>
+</div></div>
+<p>Screenshot source: <a href="https://github.com/WBG-Coach/coach-doc">WBG-Coach / coach-doc</a>.</p>
+<h3><strong>Access and links</strong></h3>
+<p>Coach Digital is an adaptable software suite. To use it in a school, obtain the approved application and school setup details from your program administrator. To establish a new implementation, start with the documentation and source code below.</p>
+<ul>
+<li><a href="https://github.com/WBG-Coach/coach-doc">Coach Digital documentation: app, administration, and deployment guides</a></li>
+<li><a href="https://github.com/WBG-Coach/coach-app">Mobile application source code</a></li>
+<li><a href="https://github.com/WBG-Coach/coach-backend">Backend source code</a></li>
+<li><a href="https://github.com/WBG-Coach/coach-admin">Administration dashboard source code</a></li>
+<li><a href="https://thedocs.worldbank.org/en/doc/2df31ff42d8922d9c52b01f946867f67-0140022024/original/MOBILE-application-how-to-note.pdf">Building a Mobile Application for Teacher Coaching — World Bank technical guidance note (PDF)</a></li>
+<li><a href="https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development">World Bank Coach initiative</a></li>
+</ul>
+<h3><strong>Contact</strong></h3>
+<p>For questions about Coach resources or adapting the platform to your context, contact the World Bank Coach team: <a href="mailto:coach@worldbank.org">coach@worldbank.org</a>. For software issues, use the issue tracker in the relevant repository.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Digital STARs</title>
         <author>
